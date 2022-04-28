@@ -73,7 +73,7 @@ h1 {
 .btn-secondary {
   background: var(--foreground);
   color: var(--background);
-  // border: currentColor solid 2px;
+/*   border: currentColor solid 2px; */
 }
 
 .btn-accent {
@@ -122,7 +122,7 @@ h1 {
 }
 
 .click-here {
-  // SVG icon from Font Awesome
+/*   SVG icon from Font Awesome */
   width: 100px;
   right: 1.5em;
   position: absolute;
